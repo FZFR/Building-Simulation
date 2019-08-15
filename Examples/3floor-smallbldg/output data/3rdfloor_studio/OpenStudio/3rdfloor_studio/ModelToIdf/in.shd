@@ -1,0 +1,774 @@
+Shadowing Combinations
+..Solar Distribution=FullInteriorAndExteriorWithReflectionsFromExteriorSurfaces
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=SHDSURFACE_0_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=2NDFLO_SRF_1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_0_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=22
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_10_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_10_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=21
+..Surface=Mir-SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_11_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_20_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_11_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=Mir-SHDSURFACE_9_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_12_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_12_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_16_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_13_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=2NDFLO_SRF_0
+..Surface=SPACER_SRF_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_13_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=Mir-SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_14_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=SHDSURFACE_9_0
+..Surface=2NDFLO_SRF_0
+..Surface=SPACER_SRF_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_14_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=Mir-SHDSURFACE_17_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+..Surface=Mir-SHDSURFACE_2_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_15_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_15_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=21
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=Mir-SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_16_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_16_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+..Surface=2NDFLO_SRF_0
+..Surface=SPACER_SRF_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_17_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=16
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=SHDSURFACE_4_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_17_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_18_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=SHDSURFACE_9_0
+..Surface=2NDFLO_SRF_0
+..Surface=SPACER_SRF_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_18_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+..Surface=Mir-SHDSURFACE_2_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_19_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_20_0
+..Surface=Mir-SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_19_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=2NDFLO_SRF_0
+..Surface=SPACER_SRF_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_1_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=2NDFLO_SRF_1
+..Surface=SPACER_SRF_1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_1_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=20
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_20_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_20_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=SHDSURFACE_9_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_21_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=SHDSURFACE_9_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_21_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_2_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_2_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+..Surface=2NDFLO_SRF_1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_3_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_3_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=Mir-SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=2NDFLO_SRF_1
+..Surface=SPACER_SRF_1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_4_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_4_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=Mir-SHDSURFACE_3_0
+..Surface=Mir-SHDSURFACE_5_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_5_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_5_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=21
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_6_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=2NDFLO_SRF_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_6_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=22
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=Mir-SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_7_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=2NDFLO_SRF_3
+..Surface=SPACER_SRF_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_7_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=20
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=Mir-SHDSURFACE_11_0
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_8_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_8_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+..Surface=2NDFLO_SRF_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SHDSURFACE_9_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=SHDSURFACE_12_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_20_0
+..Surface=SHDSURFACE_21_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SHDSURFACE_9_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=Mir-SHDSURFACE_11_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_4_0
+..Surface=Mir-SHDSURFACE_5_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=2NDFLO_SRF_3
+..Surface=SPACER_SRF_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_15_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+Number of back surfaces=19
+...Surface=2NDFLO_SRF_1
+...Surface=2NDWINDOW4BIG_GLZP_3
+...Surface=2NDWINDOW4_GLZP_0
+...Surface=2NDWINDOW4_GLZP_6
+...Surface=2NDWINDOW4_GLZP_7
+...Surface=2NDWINDOW5BIG_GLZP_4
+...Surface=2NDWINDOW5_GLZP_1
+...Surface=2NDWINDOW6BIG_GLZP_5
+...Surface=2NDWINDOW6_GLZP_2
+...Surface=2NDFLO_SRF_2
+Number of receiving sub surfaces=5
+....Surface=2NDOPAQUEDOOR1_GLZP_0
+....Surface=2NDOPAQUEDOOR1_GLZP_2
+....Surface=2NDOPAQUEDOOR1_GLZP_3
+....Surface=2NDOPAQUEDOOR1_GLZP_4
+....Surface=2NDOPAQUEDOOR2_GLZP_1
+==================================
+Surface=2NDOPAQUEDOOR1_GLZP_0 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDOPAQUEDOOR1_GLZP_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDOPAQUEDOOR1_GLZP_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDOPAQUEDOOR1_GLZP_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDOPAQUEDOOR2_GLZP_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SHDSURFACE_0_0
+..Surface=SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_1_0
+..Surface=Mir-SHDSURFACE_2_0
+..Surface=SHDSURFACE_3_0
+..Surface=Mir-SHDSURFACE_3_0
+..Surface=Mir-SHDSURFACE_5_0
+Number of back surfaces=16
+...Surface=2NDFLO_SRF_0
+...Surface=2NDOPAQUEDOOR1_GLZP_0
+...Surface=2NDOPAQUEDOOR1_GLZP_2
+...Surface=2NDOPAQUEDOOR1_GLZP_3
+...Surface=2NDOPAQUEDOOR1_GLZP_4
+...Surface=2NDOPAQUEDOOR2_GLZP_1
+...Surface=2NDFLO_SRF_2
+...Surface=2NDFLO_SRF_3
+...Surface=2NDWINDOW1
+...Surface=2NDWINDOW1BIG
+Number of receiving sub surfaces=8
+....Surface=2NDWINDOW4BIG_GLZP_3
+....Surface=2NDWINDOW4_GLZP_0
+....Surface=2NDWINDOW4_GLZP_6
+....Surface=2NDWINDOW4_GLZP_7
+....Surface=2NDWINDOW5BIG_GLZP_4
+....Surface=2NDWINDOW5_GLZP_1
+....Surface=2NDWINDOW6BIG_GLZP_5
+....Surface=2NDWINDOW6_GLZP_2
+==================================
+Surface=2NDWINDOW4BIG_GLZP_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW4_GLZP_0 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW4_GLZP_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW4_GLZP_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW5BIG_GLZP_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW5_GLZP_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW6BIG_GLZP_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW6_GLZP_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-SHDSURFACE_10_0
+..Surface=SHDSURFACE_6_0
+..Surface=SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_7_0
+..Surface=Mir-SHDSURFACE_8_0
+..Surface=SHDSURFACE_9_0
+..Surface=Mir-SHDSURFACE_9_0
+Number of back surfaces=18
+...Surface=2NDFLO_SRF_0
+...Surface=2NDOPAQUEDOOR1_GLZP_0
+...Surface=2NDOPAQUEDOOR1_GLZP_2
+...Surface=2NDOPAQUEDOOR1_GLZP_3
+...Surface=2NDOPAQUEDOOR1_GLZP_4
+...Surface=2NDOPAQUEDOOR2_GLZP_1
+...Surface=2NDFLO_SRF_1
+...Surface=2NDWINDOW4BIG_GLZP_3
+...Surface=2NDWINDOW4_GLZP_0
+...Surface=2NDWINDOW4_GLZP_6
+Number of receiving sub surfaces=6
+....Surface=2NDWINDOW1
+....Surface=2NDWINDOW1BIG
+....Surface=2NDWINDOW2
+....Surface=2NDWINDOW2BIG
+....Surface=2NDWINDOW3
+....Surface=2NDWINDOW3BIG
+==================================
+Surface=2NDWINDOW1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW1BIG is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW2BIG is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDWINDOW3BIG is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=2NDFLO_SRF_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=SHDSURFACE_13_0
+..Surface=Mir-SHDSURFACE_13_0
+..Surface=SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_14_0
+..Surface=Mir-SHDSURFACE_16_0
+..Surface=SHDSURFACE_17_0
+..Surface=SHDSURFACE_18_0
+..Surface=Mir-SHDSURFACE_18_0
+..Surface=SHDSURFACE_19_0
+..Surface=Mir-SHDSURFACE_19_0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SPACER_SRF_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

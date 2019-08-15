@@ -1,0 +1,54 @@
+Program Version,EnergyPlus, Version 9.1.0-08d2e308bb, YMD=2019.08.15 17:25,
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ManageSizing: For a plant sizing run, there must be at least 1 Sizing:Plant object input. SimulationControl Plant Sizing option ignored.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-ELECTRICITY" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-DISTILLATE OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-RESIDUAL OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-NATURAL GAS" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-COAL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ************* Simulation Error Summary *************
+   ** Warning ** The following Report Variables were requested but not generated -- check.rdd file
+   **   ~~~   ** Either the IDF did not contain these elements, the variable name is misspelled,
+   **   ~~~   ** or the requested variable is an advanced output which requires Output : Diagnostics, DisplayAdvancedReportVariables;
+   ************* Key=*, VarName=ZONE IDEAL LOADS SUPPLY AIR TOTAL COOLING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE VENTILATION FAN ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=EARTH TUBE FAN ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=PUMP ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE VRF AIR TERMINAL COOLING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE VRF AIR TERMINAL HEATING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=VRF HEAT PUMP COOLING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=VRF HEAT PUMP HEATING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE IDEAL LOADS SUPPLY AIR TOTAL HEATING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=CHILLER HEATER SYSTEM COOLING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=CHILLER HEATER SYSTEM HEATING ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE VENTILATION SENSIBLE HEAT LOSS ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE VENTILATION SENSIBLE HEAT GAIN ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL HEATING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL COOLING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=CHILLER ELECTRIC ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=BOILER GAS ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=HEATING COIL TOTAL HEATING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=HEATING COIL GAS ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=HUMIDIFIER ELECTRIC ENERGY, Frequency=Hourly
+   ************* There are 3 unused schedules in input.
+   ************* There are 3 unused week schedules in input.
+   ************* There are 5 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 3 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 9 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 29.40sec

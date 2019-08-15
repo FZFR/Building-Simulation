@@ -1,0 +1,72 @@
+ ! The following Location and Design Day data are produced as possible from the indicated data source.
+ ! Wind Speeds follow the indicated design conditions rather than traditional values (6.7 m/s heating, 3.35 m/s cooling)
+ ! No special attempts at re-creating or determining missing data parts (e.g. Wind speed or direction)
+ ! are done.  Therefore, you should look at the data and fill in any incorrect values as you desire.
+  
+ Site:Location,
+  Jakarta Soekarno Hatta,     !- Location Name
+      -6.12,     !- Latitude {N+ S-}
+      106.6,     !- Longitude {W- E+}
+      -7.00,     !- Time Zone Relative to GMT {GMT+/-}
+       2.00;     !- Elevation {m}
+ 
+ ! Using Design Conditions from "Climate Design Data 2009 ASHRAE Handbook"
+ ! Jakarta Soekarno Hatta, 1%=21.7mph, 2.5%=18.7mph, 5%=16.4mph
+ ! Jakarta Soekarno Hatta, 1%=9.7m/s, 2.5%=8.3m/s, 5%=7.3m/s
+  
+ SizingPeriod:DesignDay,
+  Jakarta Soekarno Hatta Ann Htg 99% Condns DB,     !- Name
+          2,      !- Month
+         21,      !- Day of Month
+  WinterDesignDay,!- Day Type
+       22.7,      !- Maximum Dry-Bulb Temperature {C}
+        0.0,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       22.7,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101301.,      !- Barometric Pressure {Pa}
+        1.9,      !- Wind Speed {m/s} design conditions vs. traditional 6.71 m/s (15 mph)
+        320,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+  ASHRAEClearSky, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+           ,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+           ,      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+       0.00;      !- Clearness {0.0 to 1.1}
+
+ SizingPeriod:DesignDay,
+  Jakarta Soekarno Hatta Ann Clg 1% Condns DB=>MWB,     !- Name
+          8,      !- Month
+         21,      !- Day of Month
+  SummerDesignDay,!- Day Type
+       33.1,      !- Maximum Dry-Bulb Temperature {C}
+        7.1,      !- Daily Dry-Bulb Temperature Range {C}
+ DefaultMultipliers, !- Dry-Bulb Temperature Range Modifier Type
+           ,      !- Dry-Bulb Temperature Range Modifier Schedule Name
+    Wetbulb,      !- Humidity Condition Type
+       25.8,      !- Wetbulb at Maximum Dry-Bulb {C}
+           ,      !- Humidity Indicating Day Schedule Name
+           ,      !- Humidity Ratio at Maximum Dry-Bulb {kgWater/kgDryAir}
+           ,      !- Enthalpy at Maximum Dry-Bulb {J/kg}
+           ,      !- Daily Wet-Bulb Temperature Range {deltaC}
+    101301.,      !- Barometric Pressure {Pa}
+        6.7,      !- Wind Speed {m/s} design conditions vs. traditional 3.35 m/s (7mph)
+         60,      !- Wind Direction {Degrees; N=0, S=180}
+         No,      !- Rain {Yes/No}
+         No,      !- Snow on ground {Yes/No}
+         No,      !- Daylight Savings Time Indicator
+       ASHRAETau, !- Solar Model Indicator
+           ,      !- Beam Solar Day Schedule Name
+           ,      !- Diffuse Solar Day Schedule Name
+      0.382,      !- ASHRAE Clear Sky Optical Depth for Beam Irradiance (taub)
+      2.521;      !- ASHRAE Clear Sky Optical Depth for Diffuse Irradiance (taud)
+ 
+

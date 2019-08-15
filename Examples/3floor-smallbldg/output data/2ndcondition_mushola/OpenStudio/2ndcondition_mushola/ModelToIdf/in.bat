@@ -1,0 +1,3 @@
+C:
+cd\Users\Shiro\Desktop\workspace\latihan\2ndcondition_mushola\OpenStudio\2ndcondition_mushola\
+"C:/openstudio-2.8.0/EnergyPlus/Epl-run" C:\Users\Shiro\Desktop\workspace\latihan\2ndcondition_mushola\OpenStudio\2ndcondition_mushola\ModelToIdf\in C:\Users\Shiro\Desktop\workspace\latihan\2ndcondition_mushola\OpenStudio\2ndcondition_mushola\ModelToIdf\in idf C:\ladybug\resources\Jakarta_Downtown.epw EP N nolimit N N 0 Y
