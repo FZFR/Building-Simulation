@@ -27,3 +27,7 @@ Height:
   - 2nd and 3rd floor: Multifaith space: 1.3ppl/m²
   
 the rest data provided by Honeybee ListZonePrograms and Honeybee GetEPLoads (Office:OpenOffice and Office:IT_Room)
+
+all weather data belongs here:  
+[Jakarta Downtown(epw)](https://github.com/Fazzafr/Building-Simulation/blob/master/Weather-Data/epw/Jakarta_Downtown.epw)  
+[Jakarta Downtown(ddy)](https://github.com/Fazzafr/Building-Simulation/blob/master/Weather-Data/ddy/Jakarta_Downtown.ddy)
